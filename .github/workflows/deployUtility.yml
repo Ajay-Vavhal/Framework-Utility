@@ -21,6 +21,6 @@ jobs:
           distribution: 'temurin'
 
       - name: Build and Deploy with Maven
-        run: mvn deploy -s settings.xml # Use settings.xml from the repo
+        run: mvn deploy -s settings.xml
         env:
-          UTILITY_TOKEN: ${{secrets.UTILITY_TOKEN}}
+          UTILITY_TOKEN: ${{ secrets.UTILITY_TOKEN }}
