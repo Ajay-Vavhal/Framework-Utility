@@ -1,0 +1,6 @@
+<settings>
+  <servers>
+    <server>
+      <id>github</id>  <username>${{ github.actor }}</username>  <password>${{ secrets.UTILITY_TOKEN }}</password> </server>
+  </servers>
+</settings>

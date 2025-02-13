@@ -1,0 +1,24 @@
+STAGES
+--------------------
+1)Implementation
+  a)Create Maven Project
+  b)Update pom.xml
+  c)Create page Object
+  d)Create Basic Test case
+  e)Add ogs to test case
+  f)Read common values from properties file
+  g)Run test case on desired browser
+  h)Add extent report
+  i)create data driven test case
+  j)Adding new test case
+
+2)Execution
+  a)Run test cases with Maven pom.xml
+  b)Run test cases through Maven CLI(Command Line Interface)
+  c)Run test cases using run.bat
+  d)Run test cases using jenkins(using bat file)
+
+3)Maintanance
+  a)Creating repository in GITHUB
+  b)Commit the project code in local repository 
+  c)Push the project code to GITHUB remote repository from local GIT repository
