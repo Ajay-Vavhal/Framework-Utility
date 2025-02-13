@@ -8,7 +8,6 @@ import BasePackage.BaseTest;
  * Webelement Utility Test Script
  */
 public class WebElementUtilitiesTest extends BaseTest {
-
 //    public static WebDriver driver = null;
 //	
 //	public void openURL( )
